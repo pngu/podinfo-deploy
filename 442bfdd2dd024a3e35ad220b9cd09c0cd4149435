@@ -1,0 +1,1 @@
+{"jobID":"68356a9b-2447-02c2-f479-3f2fb3ecbaf3","spec":{"type":"policy","cause":{"Message":"","User":"Paul Ngu \u003cpngu@apple.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
